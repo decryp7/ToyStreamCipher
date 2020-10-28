@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : ToyStreamCipher.cpp
-// Author      : Teo Kok Yong S8370639B
+// Author      : Teo Kok Yong
 // Version     :
 // Copyright   : 
 // Description : Implementation of ToyStreamCipher
